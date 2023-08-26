@@ -1,5 +1,5 @@
 # Bloatzap
-It sounds like you're looking to create a Python script that automates the installation of ADB (Android Debug Bridge) on Linux, followed by using ADB commands to uninstall bloatware and optimize settings on an Android device. 
+It sounds like you're looking for Python script that automates the installation of ADB (Android Debug Bridge) on Linux, followed by using ADB commands to uninstall bloatware and optimize settings on an Android device. 
 # Android Bloatware Remover using ADB FOR SAMSUNG DEVICES
 
 This project aims to automate the removal of bloatware apps from an Android device using ADB (Android Debug Bridge) commands.
