@@ -25,13 +25,13 @@ Android devices often come with pre-installed bloatware apps that users may not 
     ```
 2. Clone this repository to your local machine.
     ```bash
-    git clone https://github.com/bach5ar/BloatZap
-    ```
+   https://github.com/bach5ar/BloatZap.git
+   ```
 
 4. Run the Python script:
 
     ```bash
-    Bloatzap.py
+   python3 Bloatzap.py
     ```
 
 5. Follow the instructions provided by the script.
